@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Full-Stack Developer and ECE undergraduate, driven by a deep interest in AI and DSA, and passionate about building scalable, intelligent, and user-centric web solutions.</h3>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=page.id&"  />
 </div>
 
 <div align="center">
